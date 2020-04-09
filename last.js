@@ -56,8 +56,8 @@
                         }
                         else{
 
-                        quizBox.innerHTML="انتهى الاختبار...استمر بشكل يومي لتحافظ على مهارتك "       
-                        op1.style.display="none";
+                       quizBox.innerHTML="انتهى الاختبار...استمر بشكل يومي لتحافظ على مهاراتك وتزيدها"       
+                        op1.innerHTML="عشرة دقائق من الممارسة اليومية تكفي لاحتراف اللغة... اضغط على زر المشاركة وشارك الفائدة مع من تحب"
                         op2.style.display="none";
                         op3.style.display="none";
                         op4.style.display="none";
